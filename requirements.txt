@@ -267,7 +267,7 @@ wasabi==0.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
 websockets==7.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 widgetsnbextension==3.4.1
 wikipedia==1.4.0
 wrapt==1.10.11

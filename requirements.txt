@@ -260,7 +260,7 @@ Twisted==17.5.0
 typed-ast==1.1.0
 typing==3.6.4
 unicodecsv==0.14.1
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==15.1.0
 w3lib==1.19.0
 wasabi==0.2.1

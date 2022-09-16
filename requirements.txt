@@ -119,7 +119,7 @@ lief==0.9.0
 llvmlite==0.24.0
 locket==0.2.0
 lxml==4.2.5
-Mako==1.0.8
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==1.1.1
 mask-rcnn==2.1
